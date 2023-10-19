@@ -14,7 +14,7 @@ And that's why I reproduced a popular integrated circuit that is used in many ap
 
 ## Gallery
 
-Schematic and bord design created in Autodesk Eagle:
+Schematic and board design created in Autodesk Eagle:
 ![SCH](https://github.com/iikolodziej/ua741-transistor-version/blob/main/.sch.png)
 <br /> 
 
