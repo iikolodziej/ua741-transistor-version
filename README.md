@@ -14,4 +14,13 @@ And that's why I reproduced a popular integrated circuit that is used in many ap
 
 ## Gallery
 
-[Click here]()
+Schematic and bord design created in Autodesk Eagle:
+![SCH](https://github.com/iikolodziej/ua741-transistor-version/blob/main/.sch.png)
+<br /> 
+
+![BRD](https://github.com/iikolodziej/ua741-transistor-version/blob/main/.brd.png)
+
+Self made pcb:
+![PCB_1](https://github.com/iikolodziej/ua741-transistor-version/assets/118530880/3b3fd082-b957-48c4-9804-dcf192e7cea0)
+![PSC_2](https://github.com/iikolodziej/ua741-transistor-version/assets/118530880/039ca97d-f2dc-43a0-b07d-60acb60b59a9)
+
